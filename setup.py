@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="readin-ucinet",
-    version="1.0.0",
+    name="readin_ucinet",
+    version="1.1.0",
     author="Hezekiah Branch",
     author_email="hezekiah.branch.tufts@gmail.com",
     description="Read in UCINET file as pandas DF",
