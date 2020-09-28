@@ -8,7 +8,7 @@ import pandas as pd
 
 def read_ucinet(ucinet_filepath):
     # First read in UCINET DL dataset
-    ucinet_file = open(filepath, "r")
+    ucinet_file = open(ucinet_filepath, "r")
     ucinet_graph = []
     for line in ucinet_file.readlines():
             if (line[0].isalpha() == False):
