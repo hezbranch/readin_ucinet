@@ -1,0 +1,6 @@
+README.md
+setup.py
+readin_ucinet_hezbranch.egg-info/PKG-INFO
+readin_ucinet_hezbranch.egg-info/SOURCES.txt
+readin_ucinet_hezbranch.egg-info/dependency_links.txt
+readin_ucinet_hezbranch.egg-info/top_level.txt
