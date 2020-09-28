@@ -1,6 +1,8 @@
 # readin_ucinet
 Read in UCINET text files as pandas DataFrame
 
+Available at: https://pypi.org/project/readin-ucinet/
+
 **Prerequisites:** Requires pandas installation <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html?highlight=install
 
