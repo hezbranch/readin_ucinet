@@ -8,10 +8,7 @@ Available at: https://pypi.org/project/readin-ucinet/
 
 **Example Usage:** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; import readin_ucinet as ru <br/>
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; social_graph = ru.read_ucinet(ENTER_FILEPATH_HERE)
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; social_graph = ru.read_ucinet("ENTER_FILEPATH_HERE")
 
 **Returns: pandas DataFrame or TextParser <br/>**
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; A comma-separated values (csv) file is returned as two-dimensional data structure with labeled axes.
-
-
-Make sure not to wrap your command path arguments in string literals
