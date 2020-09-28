@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="readin-ucinet-hezbranch", # Replace with your own username
+    name="readin-ucinet",
     version="1.0.0",
     author="Hezekiah Branch",
     author_email="hezekiah.branch.tufts@gmail.com",
