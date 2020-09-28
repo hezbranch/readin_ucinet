@@ -5,8 +5,8 @@ Read in UCINET text files as pandas DataFrame
 https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html?highlight=install
 
 **Usage:** <br/>
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Enter path of dataset: User/Datasets/UCINET_Files <br/>
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Enter name of file: network.dat
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Enter path of dataset: <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Enter name of file: 
 
 **Returns: pandas DataFrame or TextParser <br/>**
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; A comma-separated values (csv) file is returned as two-dimensional data structure with labeled axes.
