@@ -8,7 +8,6 @@ import pandas as pd
 
 def read_ucinet(ucinet_filepath):
     # First read in UCINET DL dataset
-    os.chdir(ucinet_filepath)
     ucinet_file = open(filepath, "r")
     ucinet_graph = []
     for line in ucinet_file.readlines():
