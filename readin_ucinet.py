@@ -3,7 +3,6 @@
 # Date: September 24, 2020
 # Purpose: Read in UCINET DL dataset as pandas DF
 
-import os
 import pandas as pd
 
 def read_ucinet(ucinet_filepath):

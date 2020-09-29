@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="readin_ucinet",
-    version="1.3.6",
+    version="1.3.7",
     author="Hezekiah Branch",
     author_email="hezekiah.branch.tufts@gmail.com",
     description="Read in UCINET file as pandas DF",
@@ -18,5 +18,5 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=2.7',
+    python_requires='>=3',
 )

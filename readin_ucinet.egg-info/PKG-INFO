@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: readin-ucinet
-Version: 1.3.6
+Version: 1.3.7
 Summary: Read in UCINET file as pandas DF
 Home-page: https://github.com/hezbranch/readin_ucinet
 Author: Hezekiah Branch
@@ -8,6 +8,8 @@ Author-email: hezekiah.branch.tufts@gmail.com
 License: UNKNOWN
 Description: # readin_ucinet
         Read in UCINET text files as pandas DataFrame
+        
+        Available at: https://pypi.org/project/readin-ucinet/
         
         **Prerequisites:** Requires pandas installation <br/>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html?highlight=install
@@ -20,11 +22,9 @@ Description: # readin_ucinet
         &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; A comma-separated values (csv) file is returned as two-dimensional data structure with labeled axes.
         
         
-        
-        
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
-Requires-Python: >=2.7
+Requires-Python: >=3
 Description-Content-Type: text/markdown
