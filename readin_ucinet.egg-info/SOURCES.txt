@@ -1,5 +1,6 @@
 README.md
 setup.py
+readin_ucinet/__init__.py
 readin_ucinet.egg-info/PKG-INFO
 readin_ucinet.egg-info/SOURCES.txt
 readin_ucinet.egg-info/dependency_links.txt
