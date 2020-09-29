@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: readin-ucinet
-Version: 1.3.8
+Version: 1.4.1
 Summary: Read in UCINET file as pandas DF
 Home-page: https://github.com/hezbranch/readin_ucinet
 Author: Hezekiah Branch

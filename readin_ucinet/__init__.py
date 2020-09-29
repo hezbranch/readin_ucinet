@@ -24,8 +24,6 @@ def read_ucinet(ucinet_filepath):
     ucinet_file.close()
     pd_ucinet_graph = pd.DataFrame(data=ucinet_graph)
     print(pd_ucinet_graph)
-    return ucinet_graph
+    return pd_ucinet_graph
 
-filepath = input("Enter the filepath of your UCINET source: ")
-network_graph = read_ucinet(filepath)
 
